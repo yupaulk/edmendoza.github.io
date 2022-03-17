@@ -6,7 +6,7 @@ layout: home
 ---
 <img src='./assets/mendoza.jpg' width='150' height='200' align='right' /> 
 
-[**Adjunct Professor**, Department of Mathematics & Statistics, De La Salle University](https://www.dlsu.edu.ph/colleges/cos/departments/mathematics/adjunct-professor/)
+**Adjunct Professor**, Department of Mathematics & Statistics, De La Salle University
 
 **RESEARCH INTERESTS AND AREAS OF SPECIALIZATION**
 - Mathematical and Computational Biology
