@@ -4,36 +4,42 @@
 
 layout: home
 ---
-<img src='./assets/mendoza.jpg' width='150' height='200' align='right' /> 
+<style>
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+}
 
-**Adjunct Professor**, Department of Mathematics & Statistics, De La Salle University
+.left {
+  width: 500px;
+  text-align: justify;
+}
 
-**RESEARCH INTERESTS AND AREAS OF SPECIALIZATION**
-- Mathematical and Computational Biology
-- Algebra
+.right {
+  width: 200px;
+  padding-left: 10px;
+}
+</style>
 
-**EDUCATIONAL BACKGROUND**
-**PhD in Mathematics**, University of Bonn
-**MS in Mathematics**, University of Bonn
-**BS in Mathematics**, University of Heidelberg
-
-**SELECTED RESEARCH**
-
-- Talabis DAS, Arceo CPP, Mendoza ER. Positive equilibria of a class of power law kinetics. J. Math, Chem (2017). DOI 10.1007/s10910-017-0804-2
-- Cortez MJ, Nazareno AL, Menodoza ER. A computatinal approach to linear conjugacy in a class of power law kinetic systems. J. Math, Chem (2017). DOI 10.1007/s10910-017-0796-y
-- Arceo CPP, Jose EC, Lao AR, Mendoza ER. Reaction networks and kinetics of biochemical systems. Math. Biosci. 283 (2017): 13-29.
-- Talaue CO, del Rosario RCH, Pfeiffer F, Mendoza ER, Oesterhelt D. Model Construction and Analysis of Respiration in Halobacterium Salinarum. PLoS ONE, March 24, 2016, 1-22.
-- Arceo CPP, Jose EC, Marin-Sanguino A, Mendoza ER. Chemical Reaction Network Approaches to Biochemical Systems Theory. Mathematical Biosciences 269 (2015), pp. 135-152.
-- Dobay MPD, Dobay A,  Bantang JY, Mendoza ER.  How many trimers? Modeling influenza A virus fusion yiels a minimum aggregate size of six trimers, three of which are fusogenic.  2011. Molecular Biosystems, Vol 7, No. 10. Chosen as Cover Story of the Oct 2011  issue.
-- Marin-Sanguino A, Mendoza ER, Voit EO, Flux Duality in Non-Linear GMA Systems: Implications for Metabolic Engineering, Journal of Biotechnology 149, Issue 3, Sept 2010
-- Naval PC, Sison LG, Mendoza ER. Parameter estimation with Term-wise Decomposition in Biochemical Network GMA Models by Hybrid Regularized Least Squares-Particle Swarm Optimization. Proceedings of the IEEE Conference on Evolutionary Computation (CEC) 2010, July 18-23, 2010, Barcelona, Spain
-- Gonzalez O, Oberwinkler T, Mansueto, L, Pfeiffer F, Mendoza ER, Zimmer R, Oesterhelt D. Characterization of growth and metabólism of the polyextremophile Natronomonas pharaonis. June 2010, PLoS Computational Biology
-- Schwake G, Youssef S, Kuhr JT, Gude S, David MPC, Mendoza ER, Frey E, Rädler JO, Predictive modeling of non-viral gene transfer,  March 2010. Journal of Biotechnology and Bioengineering . 105: 805-813
-- Gonzalez O, Gronau S, Pfeiffer F, Mendoza ER, Zimmer R, Oesterhelt D. Systems Analysis of Bioenergetics and Growth of the Extreme Halophile Halobacterium salinarum . 2009, PLoS Computational Biology, Vol 5, Issue 4
-- Marin-Sanguino A, Torres, NV, Mendoza ER, Oesterhelt D, Metabolic Engineering with Power-Law and linear logarithmic Systems, Mathematical Biosciences, 2009; Vol 218, 50-8.
-- del Rosario RCH, Mendoza ER, Voit EO. Challenges in lin-log modelling of glycolysis in Lactococcus lactis. IET Systems Biology. 2008;2:136-30.
-- Roenneberg T, Chua EJ, Bernardo R, Mendoza ER . Modelling biological rhythms. Curr Biol. 2008;18:R826-35.
-- Gonzalez OR, Kuper C, Jung K, Naval PC, Mendoza ER. Parameter estimation using simulated annealing for S-system models of biochemical networks. Bioinformatics. 2007;23: 480-6.
-- Mendoza ER. Coding theory and Hadamard Matrices I-II, in Matimyas Matematika, April 1981 & July 1981
-- Mendoza ER. On the group PGL2 over imaginary quadratics integers, in “Recent Advances in Mathematics and its   Applications”, SEAMS 5th Biennial General Meeting & Conference, Hong Kong, June 16-21 1980
-- Mendoza ER. Cohomology of PGL2 over imaginary quadratic integers, Bonner Mathematische Schriften No. 128, 1979
+<div class="row">
+	<div class="column left">
+		<p>
+		I studied mathematics at Ateneo de Manila University, Heidelberg University and Bonn University. I completed my PhD in Bonn in 1980 under G. Harder and F. Hirzebruch. The results of my thesis were used to resolve the known Cuspidal Cohomology Problem by K. Vogtmann (Cornell) in 1985 and the main construct in my thesis is now often called the “Mendoza complex”. While an Assistant Professor of Mathematics at Wuppertal University, my collaboration with communications engineers led to a strong interest in computer networks and a move to the IT industry in October 1980.
+		</p>
+		<p>
+		Over a period of 22 years, I worked as a software developer, project manager, department head and director of consulting services for various companies including Siemens, Scientific Control Systems (BP Group), Softlab (BMW Group) and Microsoft. At Microsoft, I received the President’s Award from S. Ballmer in July 1997 for my achievements as Director of Microsoft Consulting Services in Germany. From 1998 to 2002, I was responsible for Microsoft Consulting Services in EMEA (Europe, Middle East and Africa), an organization with over a thousand employees in 36 countries. Beginning October 2002, I went on “early retirement” from Microsoft to pursue my interests in Systems Biology and my long-standing plans to contribute to science and technology education in the Philippines.
+		</p>
+		<p>
+		As an Adjunct Professor in Mathematics and Computer Science at several campuses of the University of the Philippines since 2005, I have mentored numerous graduate students and post-doctoral researchers, mainly within the research activities of the SMILES (Statistics, Mathematics, Informatics in the Life and Environmental Sciences) initiative 2003-2010 and the MBaRC (Manila Bay Research Corrridor) initiative 2008-2010. These activities have established graduate programs in Computational Systems Biology and also resulted in my co-authoring over 30 papers in international journals. I have co-edited a book on “Systems Biology in Psychiatric Research” (Wiley, June 2010) and was also a Section Editor of the “Encyclopedia of Systems Biology” (Springer 2011).
+		</p>
+		<p>
+		In parallel, I headed as a Senior Research Scientist a Systems Biology group at the Physics Department and Center of NanoScience of the Ludwig Maximilian University in Munich, Germany from Oct 2003 to Sept 2011 until reaching the mandatory retirement age of 65 at German universities. Since October 2011, I am continuing my research as a Visiting Scientist at the same department and at the Max-Planck Insitute of Biochemistry in Martinsried near Munich. I am frequently engaged as a consultant for the “Future Emerging Technologies” Research Program of the European Union.
+		</p>
+		<p>
+		I was a member of the Board of Trustees of the Max-Planck-Institute for Complex Systems Dynamics in Magdeburg, Germany (June 2006 – Oct 2011) and of the Board of Directors of the Philippine American Academy of Science and Engineering (PAASE) 2010-2012. I received the CSP Award of Distinction from the Computing Society of the Philippines in 2006 and DOST BalikScientist Awards in 2008, 2009 and 2010. In May 2011, I was elected a Corresponding Member of the Chemical, Mathematical and Physical Sciences Division of the National Academy of Science and Technology (NAST) Philippines.
+		</p>
+	</div>
+	<div class="column right">
+		<img src='/assets/mendoza.jpg' width='200' height='300' align='left' />
+	</div>
+</div>
