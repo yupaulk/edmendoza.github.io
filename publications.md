@@ -350,7 +350,500 @@ Tretter F, Gebicke-Härter P, Winterer G, <u>Mendoza ER</u> <br>
 
 <br> **INFORMATION & COMMUNICATION TECHNOLOGY** <br>
 
+1999 <br>
+**Know-How, Show-How: Knowledge Management as the Core Component of IT Consulting** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 10th Business Symposium, European Business School, Schloss Reichartshausen (Oct 1999)*
 
+1997 <br>
+**E = mc3: the Microsoft approach to Enterprise Consulting (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Microsoft Business Journal, June 1997*
 
+1996 <br>
+**The Microsoft COM Approach to Component-based Software Development (in German)** <br>
+<u>Mendoza ER</u>, Olsowsky-Klein G <br>
+*Objekt-Spektrum (1996)*
 
+1993 <br>
+**Computer-supported Workflow (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Seminar on “Application Development in a Client-Server Environment” (HMT, Munich, Nov 1993)*
 
+**The Windows Platform for Client-Server Applications. Client-Server Architecture (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Addison-Wesley 1993. Chapter 4. pp 141-177*
+
+**The way forward to Workgroup Computing (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Conference on Client-Server Computing at Telecom Trends net 93 (Mainz, May 1993)*
+
+1991 <br>
+**OSI – from Open Systems Interconnection to Open Systems Infrastructure (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Muenchner OSI-Tage (Munich, May 1991)*
+
+1990 <br>
+**Recent Developments in Electronic Data Interchange Using OSI. Information Technology: The Tool for Economic Miracles** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings SEARCC 90, 9th Convention (Manila, Dec 1990), pp 618-620*
+
+**Current Trends in OSI technology (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Muenchner OSI-Tage (Munich, May 1990)*
+
+**The CeBIT90 Experience** <br>
+<u>Mendoza ER</u>, Cooper C <br>
+*Proceedings of COMPAT 90 Conference at EDI Europe (Madrid, May 1990)*
+
+1989 <br>
+**ISO/OSI – the basis for successful business communications and its business benefits** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Executive Management Workshop, UNISYS International Management Centre (St. Paul-de-Vence, June 1989)*
+
+**CCITT X.400 ’88 and ISO/IEC MOTIS- a Comparison (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Muenchner OSI-Tage (Munich, May 1989)*
+
+1988 <br>
+**From standards via products and services to OSI infrastructures. OSI at the Application Layer (German)** <br>
+<u>Mendoza ER</u> <br>
+*Datakom 1988, Chapter 10, pp106-112*
+
+**The application layer service elements: ACSE,RTSE,ROSE,CCR. OSI at the Application Layer (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Datakom 1988, Chapter 9, pp 98-105*
+
+**Manufacturing messaging specification and companion standards OSI at the Application Layer (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Datakom 1988, Chapter 6, pp 56-63*
+
+**Directory Services and COSINE** <br>
+<u>Mendoza ER</u> <br>
+*in Computer Networks and ISDN Systems.Vol16, Nos. 1 & 2, Sept 1988*
+
+**OSI Management: An important component of open networks” (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Conference on Advanced Information and Communication Technologies” at ONLINE 88 (Hamburg, Feb 1988)*
+
+1987 <br>
+**OSI Migration strategies – a key business issue today (German issue of “Computerworld”)** <br>
+<u>Mendoza ER</u>, Beyschlag U <br>
+*Computerwoche, June 26, 1987*
+
+1986 <br>
+**The role of portable software components in MAP solutions (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Workshop on the Manufacturing Automation Protocol, BIGTECH Berlin, Nov 1986*
+
+**A comparison of Xerox Courier and CCITT remote operation service (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Workshop “ROS in open computer networks” of the German Informatics Society (GI), Munich, April 1986*
+
+1984 <br>
+**Concept and recommendations for the introduction of new office technologies at a large regional bank (in German)** <br>
+<u>Mendoza ER</u>, Herboeck L, Peulen P <br>
+*SCS Technical Report, Oct 1984*
+
+1982 <br>
+**The situation of Information Engineering in Developing Countries (in German)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the Seminar “Information Engineering and Industrialization in Developing Countries”, Technical University of Berlin, May 1982*
+
+<br> **OTHER PUBLICATION-RELATED ACTIVITIES** <br>
+
+<br> **INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT)** <br>
+
+**Co-Chairman (with Ulf Beyschlag) and Co-Editor of the Proceedings**
+*Conferences “Muenchner OSI-Tage 1988, 1989, 1990, 1991)*
+
+**Co-editor of the book “OSI in der Anwendungsebene” (OSI at the Application Layer)** <br>
+*Datakom 1988*
+
+<br> **BIOINFORMATICS AND SYSTEMS BIOLOGY** <br>
+
+**Reviewer for international journals:** <br>
+PNAS, PloS Computational Biology, Bioinformatics, Molecular Biosystems, IEEE Transactions on Biomedical Circuits and Systems, IET Systems Biology, Biosystems, Mathematical Biosciences, Natural Computing, Theoretical Computer Science, PLoS ONE, New Phytologist, Pharmacopsychiatry, Journal of Biotechnology
+
+<br> **PRESENTATIONS ON BIOINFORMATICS AND SYSTEMS BIOLOGY** <br>
+
+2014 <br>
+**Chemical Reaction Network Theory – from Chemical Engineering to Systems Biology and beyond (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*Department of Chemical Engineering, ETH (Swiss Federal Insitute of Technology) Zürich, April 30, 2014*
+
+2013 <br>
+**The First Decade of Systems Biology in the Philippines (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*2nd Asian Regional Conference on Systems Biology (ARCSB 2013), Kuala Lumpur, October 8-9, 2013*
+
+**Model Construction and Analysis of Ketone Body Metabolism in the Brain** <br>
+Mariano SMT, Talaue CNO, <u>Mendoza ER</u> <br>
+*2nd Asian Regional Conference on Systems Biology (ARCSB 2013), Kuala Lumpur, October 8-9, 2013*
+
+**Construction and Structural Analysis of a Model of Dopamine D1 Receptor Trafficking in Renal Proximal Tubule Cells** <br>
+Villar JJ, Arceo CPP, <u>Mendoza ER</u> <br>
+*2nd Asian Regional Conference on Systems Biology (ARCSB 2013), Kuala Lumpur, October 8-9, 2013*
+
+**Continuous Logical Modeling of the Submergence Regulatory Network in Rice** <br>
+Nazareno A, Carreon-Jose E, Dionisio-Sese M, <u>Mendoza ER</u> <br>
+*2nd Asian Regional Conference on Systems Biology (ARCSB 2013), Kuala Lumpur, October 8-9, 2013*
+
+**Construction and Structural Analysis of a Chemical Reaction Network Model of Brassinosteroid Signaling** <br>
+Cortez JV, Carreon-Jose E, Cadiz NM, <u>Mendoza ER</u> <br>
+*2nd Asian Regional Conference on Systems Biology (ARCSB 2013), Kuala Lumpur, October 8-9, 2013*
+
+**Construction and Structural Analysis of Models of Dopamine Synthesis and D1 Receptor Trafficking in Renal Proximal Tubule Cells (Poster Presentation)** <br>
+Villar JJ, Lubenia PN, Arceo CPP, Talaue CNO, Escaner JM IV, <u>Mendoza ER</u> <br>
+*Frontiers in Systems and Synthetic Biology Conference, Atlanta, March 23-25, 2013*
+
+**Applications of process algebra for Nanosafety and Nanomedicine (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Graduiertenkolleg, University of Rostock, Germany , January 30, 2013*
+
+2012 <br>
+**Metabolic aspects of Alzheimer's Disease** <br>
+<u>Mendoza ER</u> <br>
+*Institute of Biology, UP Diliman. Dec. 3, 2012*
+
+**Mathematical Systems Biology – an Emerging Discipline** <br>
+<u>Mendoza ER</u> <br>
+*Institute of Mathematical Sciences and Physics, UPLB, Nov. 28, 2012*
+
+**The First Decade of Systems Biology – Achievements, Pinoy Contributions and Challenges** <br>
+<u>Mendoza ER</u> <br>
+*Institute of Biological Sciences, UPLB, Nov. 9, 2012*
+
+**Basic chronobiology for shift work research** <br>
+<u>Mendoza ER</u> <br>
+*Chronobiology and Shift Work Research Workshop, CIDS, Feb 10, 2012*
+
+**Why Physicists should talk to Computer Scientists (and vice versa) (Keynote Talk)** <br>
+<u>Mendoza ER</u> <br>
+*UPM Science Week 2012, Jan 30, 2012*
+
+**Learning new Science & Technology via networking (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*Philippinr Science High School Annual Science Fair, Quezon City, Jan 26, 2012*
+
+**Computational approaches to enhance nanosafety and advance nanomedicine (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*UP Diliman Institute of Biology (Feb 6, 2012)*
+
+**Computational approaches to enhance nanosafety and advance nanomedicine (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*Ateneo de Manila Chemistry Department, Jan 20, 2012*
+
+**Modeling nanoparticle cell Interactions with stochastic process algebras (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*6th International Jagna Workshop, Jan 4-7, 2012*
+
+2011 <br>
+**(How) can New Sequencing Technologies help Algorithmic Systems Biology? (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*2nd Conference on Systems Biology and New Sequencing Technologies, Nov 2-4,2011. Trieste, Italy*
+
+**New insights on influenza via stochastic brane algebra (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*Golden Anniversary Conference of the Ateneo Math Department, July 31, 2011*
+
+**Engineering better medicines, in vivo <-> in silico (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*CSP Worshop on Grand Challenges in Computing, UP Diliman July 28-29, 2011*
+
+**The PhilBIS Architecture** <br>
+<u>Mendoza ER</u> <br>
+*1st Philippine Biodiversity Informatics Workshop at CIDS UP Diliman, July  19, 2011*
+
+**Towards a Standards-based Architecture for Philippine Biodiversity Information Systems** <br>
+<u>Mendoza ER</u> <br>
+*1st National Biodiversity & Environmental Management Conference, University of San Carlos, Cebu City, June 23-24, 2011*
+
+**PhilSHIFT: Translating Chronobiology Research into health risk reduction aqnd productivity improvement in the philippine BPO industry (Contributed Talk)** <br>
+<u>Mendoza ER</u> <br>
+*31st APAMS, National Institute of Physics, Diliman QC, June 15-17, 2011*
+
+**Evolving an information infrastructure for the global chronobiology community (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*EUCLOCK Final Symposium, June 8-9, 2011, Berlin, Germany*
+
+**Modeling the dopamine system in mammalian kidneys (Contributed Talk)** <br>
+<u>Mendoza ER</u> <br>
+*12th International Conference on Molecular Systems Biology, May 8-12, 2011, Lleida, Spain*
+
+**Coordination Perspectives for PhilSHIFT** <br>
+<u>Mendoza ER</u> <br>
+*3rd PhilSHIFT Research Colloquiun, Manila, March 11, 2011*
+
+**Algorithmic approaches to BioNanoInteractions (Invited Plenary Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of IEEE 5th HNICEM Conference, March 10-12, 2011, Manila*
+
+**Towards an Information Platform for Natural Products Research (Keynote Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of 11th Philippine Computing Science Congress (PCSC 2011), March 4-5, 2011, Naga City, Philippines*
+
+**Algorithmic Cell Biology – translating biological cartoons into computer programs (Invited Plenary Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*6th Asian-Pacific Organization for Cell Biology Conference, Feb 25-28, 2011, Mandaluyong, Philippines*
+
+2010 <br>
+**How many trimers? Modeling influenza A virus fusion yields a minimum aggregate size of six trimers, three of which are fusogenic** <br>
+Dobay MPD, Bantang JY, <u>Mendoza ER</u> <br>
+*Workshop on Advanced Modeling and Simulation Techniques, International Conference on Systems Biology 2010, Edinburgh, UK*
+
+**From ClockWork to PhilSHIFT** <br>
+<u>Mendoza ER</u> <br>
+*2nd Research Colloquium on Chronobiology and Shift Work, UP Manila, September 25, 2010*
+
+**The global Bio-IT market: success stories and opportunities** <br>
+<u>Mendoza ER</u> <br>
+*8th Philippine Youth Congress for Information Technology (Y4IT), Quezon City, Sept 14-17, 2010*
+
+**Geometric modeling of biological processes (Plenary Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of 10th Philippine Computing Science Congress (PCSC 2010), March 5-7, 2010, Davao City, Philippines*
+
+**Research Networks on Chronobiology and Shift Work** <br>
+<u>Mendoza ER</u> <br>
+*1st Research Colloquium on Chronobiology and Shift Work, UP Manila, February 6, 2010*
+
+**The EUCLIS Family** <br>
+<u>Mendoza ER</u> <br>
+*4th Annual EUCLOCK Meeting, Frauenchiemsee, Germany. January 25-29, 2010*
+
+**Mathematics and Informatics of membrane-mediated processes (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*Max Planck Institute of Mathematics in the Sciences, Leipzig, Jan 19, 2010*
+
+2009 <br>
+**The MIMeMP Proposal: Current Status** <br>
+<u>Mendoza ER</u> <br>
+*International Workshop on Mathematics and Informatics of membrane-mediated processes, Munich, Oct. 19-31, 2009*
+
+**Towards the Development of a Natural Product Ontology** <br>
+Manansala K, Batista-Navarro RTB, <u>Mendoza ER</u> <br>
+*Proceedings of the 6th National Natural Language Processing Research Symposium, Sept 25-26, 2009 at DLSU Manila*
+
+**Social Jet Lag and Shift Work: New Insights into the Human Circadian System** <br>
+Ruiz-Aguila MESD, <u>Mendoza ER</u> <br>
+*International Symposium on “The Future of Computational Biology”, Sept 21-23, 2009, Berlin, Germany*
+
+**Modeling atonal membrane reactions with the projective brane calculus PABM** <br>
+David MPC, Bantang JY, <u>Mendoza ER</u> <br>
+*3rd MeCBIC Workshop, Sept 5, 2009 Bologna, Italy*
+
+**Software tools for Systems Chronobiology** <br>
+Santos L, <u>Mendoza ER</u> <br>
+*International Symposium on Shift Work and Health Research, July 31, 2009, Manila, Philippines*
+
+**Modeling concurrent systems: from cell phones to cell membranes** <br>
+<u>Mendoza ER</u> <br>
+*29th APAMS, July 13-15, 2009*
+
+**The Philippine Network for Bioinformatics and Systems Biology: Evolving a sustainable platform for integrating experimental and computational Life Sciences** <br>
+<u>Mendoza ER</u> <br>
+*29th APAMS, July 13-15, 2009 Manila*
+
+**Social Jet Lag, Shift Work and Senior Citizens: New Insights into the Human Circadian System** <br>
+<u>Mendoza ER</u> <br>
+*NAST Annual Scientific Meeting, July 8-9, 2009, Manila*
+
+**Why Mathematics Is Important for Biology, why Biology is important for Mathematics** <br>
+<u>Mendoza ER</u> <br>
+*Lecture Series, Institute of Mathematics, UP Diliman, July 2009*
+
+**The dopamine systems in neurons and nephrons (Invited Talk)** <br>
+<u>Mendoza ER</u> <br>
+*11th International Conference on Molecular Systems Biology, June 21-25, 2009, Shanghai, China*
+
+**The synapse: where Systems Biology meets Proteomics today (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*First International Conference on Radiation Proteomics, May 27-28, 2009, Munich, Germany*
+
+**The evolution of synapse models; from number to networks (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*5th International Workshop on Computational Neuropsychiatry, May 8-9, 2009 Munich, Germany*
+
+**Modelling the dopamine synapse: from numbers to networks (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*NIMH (NIH Bethesda, MD), March 27, 2009*
+
+**Modelling the dopamine synapse: from numbers to networks to brane spaces (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Distinguished Seminar Series Lecture, IBSI at Georgia Tech, March 25, 2009*
+
+**A Projective Brane Calculus based on Activate, Bud and Mate Primitive Actions (Invitational)** <br>
+David MPC, Bantang JY, Youssef S, <u>Mendoza ER</u> <br>
+*Workshop on “Formal Methods in Molecular Biology”, Leibniz Center for Informatics, Schloss Dagstuhl, Feb 26, 2009*
+
+**Modelling the dopamine synapse: from numbers to networks (Invited Lecture)** <br>
+<u>Mendoza ER</u> <br>
+*Hamilton Institute, Maynooth, Ireland, Jan 14, 2009*
+
+2008 <br>
+**The Impact of Systems Biology on Drug Discovery and Development (Keynote Speech)** <br>
+<u>Mendoza ER</u> <br>
+*35th Annual Convention of the Philippine Society for Biochemistry and Molecular Biology, Dec 1-2, 2008, Quezon City, Philippines*
+
+**Hybrid Modelling** <br>
+<u>Mendoza ER</u> <br>
+*Summer School on Medical Applications of Systems Biology, Sept 30-Oct 2, 2008, Tenerife, Spain*
+
+**The Evolution of Information Technology as a Platform for 21st Century Life Sciences and its Industries (Keynote Speech)** <br>
+<u>Mendoza ER</u> <br>
+*The 2nd KAIST Institutes International Symposium, Sept 4-5, 2008, Daejeon, Korea*
+
+**Computational Analysis of the circadian and dopamine systems (Invited paper)** <br>
+<u>Mendoza ER</u> <br>
+*XXVI Congress of the Collegium Internationale Neuro-Psychopharmacologicum (CINP), July 13-17, 2008, Munich*
+
+**EUCLIS: Towards an Information Infrastructure for the Chronobiology community** <br>
+<u>Mendoza ER</u> <br>
+*17th European Chronobiology Summer School, June 7-14, 2008, Laulasmaa, Estonia*
+
+**Modelling in Systems Biology: Methods and Challenges** <br>
+<u>Mendoza ER</u> <br>
+*4th International Workshop on Computational Neuropsychiatry, Focus on “Systems Biology and Addiction”, April 18-19, Haar, Germany*
+
+**Understanding eukaryotic chemotaxis (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*7th HUGO Asia Pacific Conference, April 2-5, 2008, Cebu City, Philippines*
+
+**An Integrated View of Apoptotic Processes—the MINA project** <br>
+del Rosario RC, <u>Mendoza ER</u> <br>
+*International Conference on ICT4Health, March 2008, Quezon City*
+
+**Weaving the WeP - a worldwide experimental platform for Biomedical Studies (Invited Paper)** <br>
+<u>Mendoza E</u> <br>
+*International Conference on ICT4Health, March 2008, Quezon City*
+
+**Towards a digital-library based common Information Space for Chronobiologists** <br>
+Santos RD, <u>Mendoza ER</u> <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**Implementing Brane Calculus** <br>
+David MP, Phillips A, <u>Mendoza ER</u>, Cardelli L <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**Cephalostatin-1 induced Apoptosis in Leukemic Cells: From Petri Net Model to Kinetic Model** <br>
+Rodriguez EM, Del Rosario RC, Rudy A, Vollmar A, <u>Mendoza ER</u> <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**Model driven Optimization based on Standard Formalisms** <br>
+Marin-Sanguino A, Torres-Darias NV, <u>Mendoza ER</u>, Oesterhelt D <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**MADMan: A Benchmarking Framework for Parameter Estimation in Biochemical Systems Theory Models** <br>
+del Rosario RC, Echavez MT, de Paz MT, Zuñiga PC, Bargo MC, Talaue CO, Arellano C, Pasia JM, Naval, PC Jr., Voit EO, <u>Mendoza ER</u> <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**Systems Biology with SMILES (Keynote Speech)** <br>
+<u>Mendoza ER</u> <br>
+*10th International Conference on Molecular Systems Biology, Feb 25-28, 2008, Manila*
+
+**Systems Biology of viral infection (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 8th Philippine Computing Science Congress (PCSC 2005), Feb 23-24, 2008, Quezon City*
+
+2007 <br>
+**What can we learn from a genome-scale model of unicellular metabolism (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the International Conference on Amino Acids and Proteins – Amino Acids Forum Supplement, August 2007, Kallithea, Greece*
+
+**EUCLIS – An Information System for Systems Chronobiology (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*EuroMouse II, 2nd European Conference on Mouse Functional Genomics, London July 2-4, 2007*
+
+**Novel software approaches for Circadian Systems Biology** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 27th Annual PAASE Meeting & Symposium (APAMS 2007), Feb 2007, Manila*
+
+**SMILES: The First 4 Years** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 27th Annual PAASE Meeting & Symposium (APAMS 2007), Feb 2007, Manila*
+
+2006 <br>
+**Systems Biophysics: An Opportunity for Filipino Researchers (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 24th SPP Physics Congress, October 25-27, 2006, Davao City*
+
+**EUCLIS – An Information System for Circadian Systems Biology (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the First International Conference on Computational Systems Biology, July 20-23, 2006, Shanghai, China*
+
+**Digital Library Aspects in EUCLIS** <br>
+<u>Mendoza ER</u> <br>
+*1st ENGAGE European Union-Southeast Asia ICT Research Collaboration Conference, March 29-31, 2006, Manila*
+
+**EUCLIS – An Information System for Circadian Systems Biology (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 6th Philippine Computing Science Congress (PCSC 2006), Mar 28-29, 2006, Quezon City*
+
+2005 <br>
+**The Open Microscopy Environment and Mapping Image Formats** <br>
+Ganir P, Clarin C, <u>Mendoza E</u> <br>
+*Proceedings of the ASEAN Microscopy Conference, Nov 24-25, 2005, Manila*
+
+**A Graphical protocol editor for an integrated microscopy system** <br>
+Zuñiga P, A. Balbuena A, <u>Mendoza E</u> <br>
+*Proceedings of the ASEAN Microscopy Conference, Nov 24-25, 2005, Manila*
+
+**Topological adjacency relations and digital topologies in Z2 and Z3** <br>
+Balbuena AB, <u>Mendoza ER</u>, Tan EL <br>
+*2005 International Workshop on Applied Mathematics, Nov 11-12, 2005, Chungnam National University, Daejon, South Korea*
+
+**Systems Biology – Its Past, Present and Future (Keynote Speech)** <br>
+<u>Mendoza ER</u> <br>
+*Summer School on NanoScience and Systems Biology, July 25-28, 2005, Munich, Germany*
+
+**Heuristic parameter estimation of S-System models of biochemical networks** <br>
+Naval P, Gonzalez O, Sison L, <u>Mendoza E</u> <br>
+*Proceedings of IEEE HNICEM05, March 17-20, 2005, Manila*
+
+**Growing interdisciplinary science & emerging technologies through communities of practice** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of IEEE HNICEM05, March 17-20, 2005, Manila*
+
+**Modelling biological systems with Petri Nets (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of the 5th Philippine Computing Science Congress (PCSC 2005), Mar 4-5, 2005, Cebu City*
+
+2004 <br>
+**Computational Aspects of Systems Biology (Invited Paper)** <br>
+<u>Mendoza ER</u> <br>
+*Proceedings of 4th Philippine Computing Science Congress (PCSC 2004), Feb 2004, Los Baños*
+
+2003 <br>
+**Signal Transport in the Chemical Compass of eukaryotic cells** <br>
+<u>Mendoza ER</u> <br>
+*CeNS Workshop on “Transport in Nanosystems”, Sep 28-30, 2003, Kloster Seeon, Germany*
+
+<br> **PRESENTATIONS ON MATHEMATICS** <br>
+
+2013 <br>
+**Lectures on "Chemical Reaction Network Theory – from Chemical Engineering to Systems Biology"** <br>
+<u>Mendoza ER</u> <br>
+*Mathematics Department, De La Salle University, Oct 18, 2013*
+
+**Lectures on "Chemical Reaction Network Theory – from Chemical Engineering to Systems Biology"** <br>
+<u>Mendoza ER</u> <br>
+*Mathematics Institute, UP Los Baños, Oct 17, 2013*
+
+**Lectures on "Chemical Reaction Network Theory – from Chemical Engineering to Systems Biology"** <br>
+<u>Mendoza ER</u> <br>
+*Mathematics Institute, UP Diliman, Oct 11, 2013*
+
+2012 <br>
+**Lecture on "Group geometry and the minima of Hermitian forms"** <br>
+<u>Mendoza ER</u> <br>
+*Institute of Mathematics, Feb 6, 2012*
+
+**Lecture on "Group geometry and the minima of Hermitian forms"** <br>
+<u>Mendoza ER</u> <br>
+*Ateneo de Manila Mathematics Department, Feb 3 2012*
+
+2010 <br>
+**Lectures on Bianchi Groups** <br>
+<u>Mendoza ER</u> <br>
+*UP Diliman Institute of Mathematics, Sept 22 and 29, 2010*
